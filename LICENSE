@@ -1,21 +1,19 @@
-MIT License
+Custom License for APaperScript Programming Language  
+Copyright (c) 2025 emersongoncalvesgrangeiro  
 
-Copyright (c) 2025 emersongoncalvesgrangeiro
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. **Non-Commercial Use of the Original Code**:  
+   The Software itself, in its original or modified form, may not be sold, licensed, or otherwise distributed for commercial purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. **Commercial Use of Derivative Projects**:  
+   Projects created using the tools or functionality provided by the Software may be sold, licensed, or used for commercial purposes, provided that the Software itself is not included as part of the commercial product.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. **No Use of Developer Names for Promotion or Endorsement**:  
+   The names of the authors, contributors, or owners of the Software, including but not limited to "emersongoncalvesgrangeiro," may not be used to promote, endorse, or otherwise advertise any derivative products, projects, or services without explicit prior written permission.
+
+4. **Disclaimer of Warranty**:  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. **Retention of Copyright Notice**:  
+   All copies or substantial portions of the Software must retain this copyright notice and the above conditions.
