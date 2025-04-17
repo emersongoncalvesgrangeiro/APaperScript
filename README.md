@@ -1,2 +1,3 @@
 # APaperScript
-APaperScript programing Language
+APaperScript programing Language.
+This is a simple personal project.
